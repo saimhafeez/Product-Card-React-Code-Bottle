@@ -1,0 +1,146 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Oswald', sans-serif;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+.flex {
+  display: flex;
+  gap: 5px;
+}
+
+.flex-j-center {
+  justify-content: center;
+}
+
+.flex-al-center {
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  word-wrap: break-word;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3);
+  color: #1A202C;
+  border-radius: 15px;
+  min-height: 300px;
+  width: 250px;
+  background-color: #ebf3f5;
+}
+
+.image-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #594de2;
+  border-radius: 15px;
+  position: relative;
+  height: 150px;
+  width: 100%;
+  transition: all 0.3s ease;
+}
+
+.image-container:hover {
+  background: none;
+}
+
+.image--active {
+  object-fit: contain;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 15%;
+  left: 8%;
+  z-index: 1;
+  transition: all 0.3s ease;
+  pointer-events: none;
+}
+
+.image-container:hover .image--active {
+  transform: scale(1.7);
+  overflow: hidden;
+}
+
+.thumbnail-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  margin-top: 25%;
+  gap: 0.5rem;
+  z-index: 0;
+  transition: all 0.3s ease;
+}
+
+.thumbnail-container img {
+  object-fit: cover;
+  width: 50px;
+  height: 50px;
+  padding: 5px;
+  background-color: white;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  border: 1.5px solid #ac96ed;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.info-container {
+  display: flex;
+  flex-direction: column;
+  margin: 1.25rem;
+}
+
+.star * {
+  stroke: #594de2;
+  fill: #594de2;
+}
+
+.originalPrice {
+  text-decoration: line-through;
+  text-decoration-color: #594de2;
+  text-decoration-thickness: 2px;
+}
+
+.badge {
+  background-color: rgb(116, 244, 116);
+  padding: 2px 5px;
+  border-radius: 6px;
+}
+
+.buy-now {
+  background-color: #594de2;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  padding: 1rem;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.buy-now:hover {
+  background-color: #3b2ce0;
+}

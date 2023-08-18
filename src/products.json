@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Air Jordan 1",
+    "price": 189.99,
+    "images": [
+      "https://shoppio.s3.amazonaws.com/1684669164454.png",
+      "https://shoppio.s3.amazonaws.com/1684669213042.png",
+      "https://shoppio.s3.amazonaws.com/1684669214895.png"
+    ],
+    "salePrice": 167,
+    "ratingStars": 1,
+    "reviewsCount": 6
+  },
+  {
+    "name": "Nike Dunk High",
+    "price": 125,
+    "images": [
+      "https://shoppio.s3.amazonaws.com/1684669504379.png",
+      "https://shoppio.s3.amazonaws.com/1684669510424.png"
+    ],
+    "salePrice": 78,
+    "ratingStars": 3.5,
+    "reviewsCount": 12
+  },
+  {
+    "name": "Nike Air VaporMax",
+    "price": 210,
+    "images": [
+      "https://shoppio.s3.amazonaws.com/1684669906487.png",
+      "https://shoppio.s3.amazonaws.com/1684669912574.png"
+    ],
+    "salePrice": 189,
+    "ratingStars": 1.5,
+    "reviewsCount": 2
+  },
+  {
+    "name": "Nike Dunk High",
+    "price": 200,
+    "images": [
+      "https://shoppio.s3.amazonaws.com/1684669998154.png",
+      "https://shoppio.s3.amazonaws.com/1684670003056.png"
+    ],
+    "salePrice": 190,
+    "ratingStars": 5,
+    "reviewsCount": 21
+  },
+  {
+    "name": "Nike Blazer Mid",
+    "price": 105,
+    "images": [
+      "https://shoppio.s3.amazonaws.com/1684670099875.png",
+      "https://shoppio.s3.amazonaws.com/1684670103736.png"
+    ],
+    "salePrice": 90,
+    "ratingStars": 100,
+    "reviewsCount": 9
+  },
+  {
+    "name": "Nike Free Metcon",
+    "price": 129.99,
+    "images": [
+      "https://shoppio.s3.amazonaws.com/1684670234676.png",
+      "https://shoppio.s3.amazonaws.com/1684670239716.png",
+      "https://shoppio.s3.amazonaws.com/1684670240933.png"
+    ],
+    "salePrice": 120.99,
+    "ratingStars": 0.5,
+    "reviewsCount": 1
+  },
+  {
+    "name": "Nike Pegasus",
+    "price": 130,
+    "stock": 2,
+    "images": [
+      "https://shoppio.s3.amazonaws.com/1684670494788.png",
+      "https://shoppio.s3.amazonaws.com/1684670498093.png",
+      "https://shoppio.s3.amazonaws.com/1684670499470.png"
+    ],
+    "salePrice": 110,
+    "ratingStars": 2.5,
+    "reviewsCount": 13
+  },
+  {
+    "name": "Nike Blazer Mid",
+    "price": 115,
+    "images": [
+      "https://shoppio.s3.amazonaws.com/1684670647252.png",
+      "https://shoppio.s3.amazonaws.com/1684670650617.png"
+    ],
+    "salePrice": 80,
+    "ratingStars": 3.5,
+    "reviewsCount": 15
+  },
+  {
+    "name": "Nike Pegasus Trail",
+    "price": 160.55,
+    "images": [
+      "https://shoppio.s3.amazonaws.com/1684670727352.png",
+      "https://shoppio.s3.amazonaws.com/1684670730005.png"
+    ],
+    "salePrice": 130,
+    "ratingStars": 4.5,
+    "reviewsCount": 25
+  },
+  {
+    "name": "Nike Air VaporMax",
+    "price": 128,
+    "images": [
+      "https://shoppio.s3.amazonaws.com/1684670888764.png",
+      "https://shoppio.s3.amazonaws.com/1684670890870.png"
+    ],
+    "salePrice": 30,
+    "ratingStars": 5,
+    "reviewsCount": 52
+  },
+  {
+    "name": "Nike Air 270",
+    "price": 130,
+    "images": [
+      "https://shoppio.s3.amazonaws.com/1684671112965.png",
+      "https://shoppio.s3.amazonaws.com/1684671117099.png",
+      "https://shoppio.s3.amazonaws.com/1684671127522.png"
+    ],
+    "salePrice": 128,
+    "ratingStars": 3,
+    "reviewsCount": 14
+  },
+  {
+    "name": "Nike Air 90",
+    "price": 69,
+    "images": [
+      "https://shoppio.s3.amazonaws.com/1684671249947.png",
+      "https://shoppio.s3.amazonaws.com/1684671254709.png",
+      "https://shoppio.s3.amazonaws.com/1684671262498.png"
+    ],
+    "salePrice": 60,
+    "ratingStars": 2,
+    "reviewsCount": 10
+  }
+]
